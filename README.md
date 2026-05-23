@@ -36,9 +36,16 @@ Linear Regression is used to predict continuous salary values based on employee 
 8. Visualization
 
 # Data Visualization
-1. Experience vs Salary Scatter Plot
+1. Experience vs Salary Scatter Plot : 
 This graph shows the relationship between years of experience and salary.
 <img width="722" height="468" alt="image" src="https://github.com/user-attachments/assets/85d1a6e8-71ee-4669-811e-8ec7303a1f7d" />
 
-2. Regression Line Visualization
+2. Regression Line Visualization : 
 This graph shows the best-fit regression line for salary prediction.
+<img width="722" height="468" alt="image" src="https://github.com/user-attachments/assets/a9814a59-f112-4e59-88cb-0dd0b75381a9" />
+
+# Conclusion
+In this project, Linear Regression was successfully used to predict employee salaries based on years of experience.
+The model was trained and evaluated using various regression metrics.
+Data visualization techniques helped understand the relationship between experience and salary.
+The project demonstrates the practical implementation of Machine Learning regression techniques for real-world salary prediction problems.
